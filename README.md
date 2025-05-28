@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nkamuinftech
-- 👀 I’m interested in backend and AI modeling 
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on backend and AI models
+- 👋 Hi, I’m @Nkamudtech
+- 👀 I’m interested in backend and Machine learning 
+- 🌱 I’m currently learning both backend and ML
+- 💞️ I’m looking to collaborate on backend and ML
 - 📫 How to reach me through my email nkamunoel@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
