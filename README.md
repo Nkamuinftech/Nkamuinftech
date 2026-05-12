@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nkamudtech
+- 👋 Hi, I’m @Nkamuinftech
 - 👀 I’m interested in backend and Machine learning 
 - 🌱 I’m currently learning both backend and ML
 - 💞️ I’m looking to collaborate on backend and ML
