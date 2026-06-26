@@ -1,4 +1,4 @@
-# Hi there, I'm Nkamu! (@Nkamuinftech)
+# Hi there, I'm Noel Nkamu! (@Nkamuinftech)
 
 ## About Me
 I am a passionate developer deeply interested in building robust **Backend Systems** and exploring the world of **Machine Learning**. I love solving complex problems, writing clean code, and building scalable server-side architectures.
@@ -12,7 +12,7 @@ I am a passionate developer deeply interested in building robust **Backend Syste
 
 ##  Tech Stack & Tools
 
-### 🔙 Backend Development & Languages
+###  Backend Development & Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,18 +30,18 @@ I am a passionate developer deeply interested in building robust **Backend Syste
 ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
-
+<!--
 ##  GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Nkamuinftech&show_icons=true&theme=radical" alt="Nkamu's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nkamuinftech&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 ---
+-->
 
 ## Connect with Me
 If you want to discuss a project, collaborate, or just talk tech, feel free to reach out!
 
-- 📧 **Email:** [nkamunoel@gmail.com](mailto:nkamunoel@gmail.com)
+-  **Email:** [nkamunoel@gmail.com](mailto:nkamunoel@gmail.com)
 
 "The best way to predict the future is to invent it." 
