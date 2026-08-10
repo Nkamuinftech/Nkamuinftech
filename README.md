@@ -5,8 +5,8 @@ I am a passionate developer deeply interested in building robust **Backend Syste
 
 -  **Current Focus:** Leveling up my skills simultaneously in advanced backend engineering and ML pipelines.
 -  **Collaboration:** I'm looking to collaborate on open-source projects or innovative ideas involving backend development and machine learning.
--  **Pronouns:** He/Him *(or your preferred pronouns)*
--  **Fun Fact:** I can explain database normalization in my sleep, but I still take 5 minutes to decide what to eat for lunch! *(or insert your own fun fact here)*
+-  
+-  **Fun Fact:** I can explain database normalization in my sleep, but I still take 5 minutes to decide what to eat for lunch!
 
 ---
 
